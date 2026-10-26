@@ -7,7 +7,7 @@ a=int(input("enter the value of a :"))
 b=int(input("enter the value of b:"))
 c=int(input("enter the value of c:"))
 print(f"subtraction of {a} and {b}is {a-b}")
-print(f"multiplication of{a} and {b} is {a-b}")
+print(f"multiplication of{a} and {b} is {a*b}")
 if  a>b:
     print("a is greater than b")
 elif a<b:
